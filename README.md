@@ -1,7 +1,7 @@
 # Expenses-Tracker-App
 Expenses Tracker App is a simple yet powerful tool to help you keep track of your expenses. With a user-friendly interface, it allows you to log your expenses in various currencies and provides a real-time total in USD.
 
-## [![Watch the video]](https://drive.google.com/file/d/1K4rk2ugNWGh5cNU8mT-bcdoqEypaeeH4/view?usp=sharing)
+## 🎥 [Watch the Demo Video](https://drive.google.com/file/d/1K4rk2ugNWGh5cNU8mT-bcdoqEypaeeH4/view?usp=sharing)
 
 ## Description:
 Expenses Tracker App is a simple yet powerful tool to help you keep track of your expenses. With a user-friendly interface, it allows you to log your expenses in various currencies and provides a real-time total in USD.
